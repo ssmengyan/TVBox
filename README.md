@@ -22,6 +22,19 @@ TVBOX接口在线解密：https://www.lige.fit/ua
 
 TVBox 配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
+### 推荐空壳版本
+密码666
+
+1.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/8e5324489582b940beb2bc9096f58f9131806c5a/一木源/tu/IMG_20230708_021944.jpg) 🥂🥂🥂横版平板电视推荐 - [影视仓](https://qiqi2020.lanzoub.com/b09svqv1c)
+
+2.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/0ea37c5de552f39ab79cad2d4dd1e940db21bd78/一木源/tu/IMG_20230708_023440.jpg) 🥂🥂竖屏横屏二次开发版-密码222 [影视](https://qiqi2020.lanzoub.com/b09svqv1c)
+
+3.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/8e5324489582b940beb2bc9096f58f9131806c5a/一木源/tu/IMG_20230708_022030.jpg) 🥂🥂🥂竖屏美化版 - [easybox](https://qiqi2020.lanzoub.com/b09svqv1c)
+
+4.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/0ea37c5de552f39ab79cad2d4dd1e940db21bd78/一木源/tu/IMG_20230708_023111.jpg) 🥂🥂二次开发竖屏版 - [影迷](https://qiqi2020.lanzoub.com/b09svqv1c)
+
+5.![box](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/803096ca694e26bf4e4b71b7b87e0ec52d4acdc6/一木源/tu/2c8b0baabc5c7afa.png) 🥂🥂二次开发竖屏版- [影音壳子](https://support.qq.com/embed/phone/428437/faqs/127190)
+
 # 配置说明：
 
 （1）cangku.json 网络收集的多人配置文件；
